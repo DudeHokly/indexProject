@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Каппа",
+    "img": "https://i.timesnowhindi.com/stories/how_to_make_coffee_at_home.jpg?tr=w-400,h-300,fo-auto",
+    "price": "300р",
+    "description": "Клевый коффе"
+  },
+  {
+    "id": 2,
+    "title": "Дуду",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmv6iLD8IP_P_8fJfZHhSICYLBc3mcNFIdcHw2FanA8eIL3ll-h26NZtDR-BjD6-O_wM&usqp=CAU",
+    "price": "500р",
+    "description": "Не клевый коффе"
+  },
+  {
+    "id": 3,
+    "title": "Чапа",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/8f/93/47/egg-coffe-ice-cream.jpg?w=1100&h=-1&s=1",
+    "price": "700р",
+    "description": "Бывало и лучше коффе"
+  },
+  {
+    "id": 4,
+    "title": "Удуду",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8milrhAkvfxr2MLcQ2OFfFIrkT3Af9ABTWcL40zqBD4OV7rfD4LTdcv0x5VCCu5m-A4U&usqp=CAU",
+    "price": "400р",
+    "description": "Гага коффе"
+  },
+  {
+    "id": 5,
+    "title": "Квака",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdICnUXV8X-2fnxxoh3VUhcy4jDtq5Us7WxuVkvsj5nVkLBI_FodBg6q20Re4j1snzVU&usqp=CAU",
+    "price": "600р",
+    "description": "Фимоз коффе"
+  },
+  {
+    "id": 6,
+    "title": "Блакопс",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtgItcwAddQdpTnC0OoMCbyPsQKRjxftspQtuYi5GhYBr5HnkwSJmVumzt1YIxZ6IOkw&usqp=CAU",
+    "price": "500р",
+    "description": "Цистит коффе"
+  },
+  {
+    "id": 7,
+    "title": "Малафя",
+    "img": "data:image/jpeg;base64,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",
+    "price": "300р",
+    "description": "Габана коффе"
+  },
+  {
+    "id": 8,
+    "title": "Чупача",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHm8ykgKuogA3XymeKov_EBaUx8KyofhLmUoMFwnUydntwAEEOEfohLU_Td56YjNaQVY&usqp=CAU",
+    "price": "700р",
+    "description": "Не чупа чупа чача коффе"
+  },
+  {
+    "id": 9,
+    "title": "Шаша",
+    "img": "https://cdn.pixabay.com/photo/2016/04/26/16/58/coffe-1354786_1280.jpg",
+    "price": "500р",
+    "description": "Гаичи коффе"
+  },
+  {
+    "id": 10,
+    "title": "Паша",
+    "img": "https://media.istockphoto.com/id/1358132613/photo/refreshing-hot-cup-of-coffee-at-a-cafe.jpg?s=612x612&w=0&k=20&c=ObwIF28Vt3k93Nch9U4QYUdOwMA_eiMwVVCvKbypnNc=",
+    "price": "400р",
+    "description": "Клевый коффе"
+  }
+]
